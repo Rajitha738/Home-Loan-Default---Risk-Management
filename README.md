@@ -42,7 +42,7 @@ Built and evaluated the following models:
 - XGBoost Classifier
 
 Applied:
-- Label Encoding and One-Hot Encoding
+- One-Hot Encoding
 - Feature scaling (for KNN, Logistic Regression)
 - Hyperparameter tuning using GridSearchCV and cross-validation
 
